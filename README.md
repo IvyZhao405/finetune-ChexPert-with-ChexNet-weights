@@ -54,7 +54,7 @@ CheXRay_predict_request.py
      
  ```
  - Label distribution: 
- ![label distribution](image/label_dsitribution.png)
+ ![label distribution](image/label_distribution.png)
 
 
 ## Model Training
